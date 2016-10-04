@@ -1,3 +1,10 @@
+#removing dist folder
+dist
+
+#microsoft visual studio code
+.vscode
+jsconfig.json
+
 # Logs
 logs
 *.log
